@@ -50,9 +50,9 @@ The work applies regression-based modelling, interaction terms, prediction simul
 
 | File Name | Description |
 |----------|-------------|
-| `Rodgers_COVID_Income_Stress_Stata_2024.pdf` | Full coursework report with model outputs and interpretations |
+| `Rodgers_COVID_Income_Stress_Stata_2024.pdf` | Full coursework report with model outputs and interpretations and Dofile |
 | `README.md` | Overview of project goals, methods, and outcomes |
-| *(Optional)* `.do` file | Contains all Stata code used in the analysis (available upon request) |
+
 
 ---
 
